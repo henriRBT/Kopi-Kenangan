@@ -1,0 +1,13 @@
+shorcut lebih mudah 
+
+alt + shift+ bawah untuk duplikat 
+ctrl+ s untuk save 
+
+div. navbar-red tekan tab tab langsug ke div
+a*4 ini langsung ada 4 a link 
+
+alt + bawah untuk pindah ke bawah 
+
+1.4rem = 1.4 *16 
+
+cari responsif break points 
